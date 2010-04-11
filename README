@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3053
+
+Maynard is a (very) simple stack-based RPN calculator written in Python 2.5+ and featuring Python Decimal numbers.
+
+It uses the Vim "input()" function to show the stack and to get input from the user. So if you enter "2 3 *" you'll get "6" on the stack. Etc. 
+Press the = key to write the number at the top of the stack into the current buffer. Press <ESC> to exit. Look at the source for other commands.
+
+If you have never used an RPN calculator this will probably annoy you, but if you have ever used an HP calculator then it should be reasonably familiar.  I'm keen to get feedback on this one, but please be kind: I'm new to both Vim and Python so it can probably be improved in all sorts of ways.
+
+toby@cpan.org
+
+Brother Maynard is a Python reference by the way...
